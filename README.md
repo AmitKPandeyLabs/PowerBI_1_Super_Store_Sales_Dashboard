@@ -10,11 +10,11 @@ This Power BI project delivers an end-to-end sales analytics dashboard for a ret
 ________________________________________
 🎯 Objectives
 
-•	Reveal sales, quantity, and profit trends across regions, segments, and categories
-•	Understand preferred payment modes and shipping choices
-•	Measure year-over-year growth and monthly patterns
-•	Pinpoint top sub-categories driving revenue
-•	Enable interactive exploration for data-driven strategy
+-	Reveal sales, quantity, and profit trends across regions, segments, and categories
+-	Understand preferred payment modes and shipping choices
+-	Measure year-over-year growth and monthly patterns
+-	Pinpoint top sub-categories driving revenue
+-	Enable interactive exploration for data-driven strategy
 
 ________________________________________
 🔍 Key Dashboard Features
@@ -27,45 +27,45 @@ KPIs:
 
 Segment & Region Insights:
 
-•	🍕 Donut charts for Consumer, Corporate, Home Office
-•	🗺️ Sales split by Central, East, South, and West regions
+-	🍕 Donut charts for Consumer, Corporate, Home Office
+-	🗺️ Sales split by Central, East, South, and West regions
 
 Payment Analysis:
-•	💳 Cards (22%), ⚡ Online (35%), 💵 COD (43%)
+-	💳 Cards (22%), ⚡ Online (35%), 💵 COD (43%)
 
 Shipping Mode:
-•	🚚 Standard, Second, First Class & Same Day
+-	🚚 Standard, Second, First Class & Same Day
 
 Time Series:
-•	📉 Monthly sales & profit, YoY lines for 2019 & 2020
+-	📉 Monthly sales & profit, YoY lines for 2019 & 2020
 
 Geo Map:
-•	🗺️ Interactive U.S. state map for profit & revenue hotspots
+-	🗺️ Interactive U.S. state map for profit & revenue hotspots
 
 Category & Sub-Category:
-•	🏆 Bar charts highlighting Office Supplies, Technology, Furniture
-•	🔝 Top sub-categories: Phones, Chairs, Binders
+-	🏆 Bar charts highlighting Office Supplies, Technology, Furniture
+-	🔝 Top sub-categories: Phones, Chairs, Binders
 
 Interactive Filters & Slicers:
-•	🔎 Region buttons for instant deep-dives
+-	🔎 Region buttons for instant deep-dives
 
 ________________________________________
 💡 Notable Insights
 
-•	The Consumer segment and West region lead sales and profitability
-•	COD is the top payment method, but encouraging Cards/Online can further boost digital adoption
-•	Standard Class dominates shipments; exploring other modes could unlock new efficiencies
-•	Products like Phones and Office Supplies consistently drive revenue
-•	Profit and sales show clear seasonal patterns, guiding effective inventory and marketing
+-	The Consumer segment and West region lead sales and profitability
+-	COD is the top payment method, but encouraging Cards/Online can further boost digital adoption
+-	Standard Class dominates shipments; exploring other modes could unlock new efficiencies
+-	Products like Phones and Office Supplies consistently drive revenue
+-	Profit and sales show clear seasonal patterns, guiding effective inventory and marketing
 
 ________________________________________
 🛠️ Tools & Skills Demonstrated
-•	Power BI Desktop (Data Import, Cleaning, Visualization)
-•	Power Query (Transformations, Data Modeling)
-•	DAX (Custom Measures, YOY, KPIs)
-•	Advanced Visuals: maps, donut charts, bar/line combos
-•	Interactive dashboard design for business users
-•	Dashboard publishing on Power BI Cloud for instant stakeholder access
+-	Power BI Desktop (Data Import, Cleaning, Visualization)
+-	Power Query (Transformations, Data Modeling)
+-	DAX (Custom Measures, YOY, KPIs)
+-	Advanced Visuals: maps, donut charts, bar/line combos
+-	Interactive dashboard design for business users
+-	Dashboard publishing on Power BI Cloud for instant stakeholder access
 
 ________________________________________
 🚀 Usage
