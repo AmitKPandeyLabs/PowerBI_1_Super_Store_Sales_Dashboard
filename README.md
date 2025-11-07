@@ -1,6 +1,7 @@
 # PowerBI_1_Super_Store_Sales_Dashboard
 A Power BI end-to-end sales analytics dashboard for a retail Super Store.
-/*<img width="1487" height="509" alt="image" src="https://github.com/user-attachments/assets/4239f9b4-deb3-4d5b-acc2-22baf3065a96" /> 
+[![Super Store Sales Dashboard](https://github.com/AmitKPandeyLabs/PowerBI_1_Super_Store_Sales_Dashboard/raw/main/Project_1_card_fitted_highres_image.png)](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
+
 🏬 Super Store Sales Dashboard (Power BI)
 Click the image above to try out the live interactive dashboard
 
