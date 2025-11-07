@@ -20,10 +20,10 @@ ________________________________________
 🔍 Key Dashboard Features
 
 KPIs:
-- •	💰 Sales: 1.6M
-- •	📦 Quantity: 22K
-- •	📊 Profit: 175K
-- •	⏱️ Avg. Delivery Days: 4
+- 💰 Sales: 1.6M
+- 📦 Quantity: 22K
+- 📊 Profit: 175K
+- ⏱️ Avg. Delivery Days: 4
 
 Segment & Region Insights:
 
