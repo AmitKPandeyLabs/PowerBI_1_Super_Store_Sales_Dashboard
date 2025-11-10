@@ -1,17 +1,20 @@
 # PowerBI_1_Super_Store_Sales_Dashboard
+
 A Power BI end-to-end sales analytics dashboard for a retail Super Store.
+
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9">
   <img src="https://github.com/AmitKPandeyLabs/PowerBI_1_Super_Store_Sales_Dashboard/raw/main/Project_1_card_fitted_highres_image.png" alt="Super Store Sales Dashboard" width="600">
 </a>
 
-🏬 Super Store Sales Dashboard (Power BI)
-Click the image above to try out the live interactive dashboard
+### [Click Here to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
 
-________________________________________
-📈 Project Overview
+<br>
+
+## 📈 Project Overview
+
 This Power BI project delivers an end-to-end sales analytics dashboard for a retail Super Store. The solution transforms raw transaction data into actionable insights using modern data analysis techniques. Executives and business users can instantly spot trends, segment performance, product opportunities, and regional strength—all in one visually intuitive platform.
-________________________________________
-🎯 Objectives
+
+## 🎯 Objectives
 
 -	Reveal sales, quantity, and profit trends across regions, segments, and categories
 -	Understand preferred payment modes and shipping choices
@@ -19,41 +22,39 @@ ________________________________________
 -	Pinpoint top sub-categories driving revenue
 -	Enable interactive exploration for data-driven strategy
 
-________________________________________
-🔍 Key Dashboard Features
+## 🔍 Key Dashboard Features
 
-KPIs:
-- 💰 Sales: 1.6M
-- 📦 Quantity: 22K
-- 📊 Profit: 175K
-- ⏱️ Avg. Delivery Days: 4
+**Key KPIs:**
+- Sales: 1.6M
+- Quantity: 22K
+- Profit: 175K
+- Avg. Delivery Days: 4
 
-Segment & Region Insights:
+**Segment & Region Insights:**
+-	Donut charts for Consumer, Corporate, and Home Office segments
+-	Sales split by Central, East, South, and West regions
 
--	🍕 Donut charts for Consumer, Corporate, Home Office
--	🗺️ Sales split by Central, East, South, and West regions
+**Payment Analysis:**
+-	Cards (22%), Online (35%), COD (43%)
 
-Payment Analysis:
--	💳 Cards (22%), ⚡ Online (35%), 💵 COD (43%)
+**Shipping Mode:**
+-	Standard, Second, First Class & Same Day
 
-Shipping Mode:
--	🚚 Standard, Second, First Class & Same Day
+**Time Series:**
+-	Monthly sales & profit analysis
+-	YoY growth lines for 2019 & 2020
 
-Time Series:
--	📉 Monthly sales & profit, YoY lines for 2019 & 2020
+**Geo Map:**
+-	Interactive U.S. state map to visualize profit & revenue hotspots
 
-Geo Map:
--	🗺️ Interactive U.S. state map for profit & revenue hotspots
+**Category & Sub-Category:**
+-	Bar charts highlighting Office Supplies, Technology, and Furniture
+-	Top sub-categories: Phones, Chairs, Binders
 
-Category & Sub-Category:
--	🏆 Bar charts highlighting Office Supplies, Technology, Furniture
--	🔝 Top sub-categories: Phones, Chairs, Binders
+**Interactive Filters & Slicers:**
+-	Region buttons for instant deep-dives
 
-Interactive Filters & Slicers:
--	🔎 Region buttons for instant deep-dives
-
-________________________________________
-💡 Notable Insights
+## 💡 Notable Insights
 
 -	The Consumer segment and West region lead sales and profitability
 -	COD is the top payment method, but encouraging Cards/Online can further boost digital adoption
@@ -61,19 +62,18 @@ ________________________________________
 -	Products like Phones and Office Supplies consistently drive revenue
 -	Profit and sales show clear seasonal patterns, guiding effective inventory and marketing
 
-________________________________________
-🛠️ Tools & Skills Demonstrated
--	Power BI Desktop (Data Import, Cleaning, Visualization)
--	Power Query (Transformations, Data Modeling)
--	DAX (Custom Measures, YOY, KPIs)
--	Advanced Visuals: maps, donut charts, bar/line combos
--	Interactive dashboard design for business users
--	Dashboard publishing on Power BI Cloud for instant stakeholder access
+## 🛠️ Tools & Skills Demonstrated
 
-________________________________________
-🚀 Usage
-1.  Dashboard published on Power BI Cloud for instant access.
-2.	Launch the interactive dashboard via the image or this link.
-3.	Filter, select, and explore for rapid business insight and trends.
+-	**Power BI Desktop**: Data Import, Cleaning, Visualization
+-	**Power Query**: Transformations, Data Modeling
+-	**DAX**: Custom Measures, YOY, KPIs
+-	**Advanced Visuals**: Maps, donut charts, bar/line combos
+-	**Dashboard Design**: Interactive dashboard design for business users
+-	**Power BI Service**: Dashboard publishing for stakeholder access
 
+## 🚀 Usage
 
+1. **[Launch the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)**.
+2. Filter by region, segment, or category using the slicers.
+3. Select data points on any chart to cross-filter the entire dashboard.
+4. Explore the different pages to analyze trends and discover insights.
