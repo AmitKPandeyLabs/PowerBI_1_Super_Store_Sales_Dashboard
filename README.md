@@ -6,7 +6,7 @@
   <img src="https://github.com/AmitKPandeyLabs/PowerBI_1_Super_Store_Sales_Dashboard/raw/main/Project_1_card_fitted_highres_image.png" alt="Super Store Sales Dashboard" width="800">
 </a>
 
-### [Click Here(Ctrl+Click opens new tab) to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
+### [Click Here (ctrl+Click opens new tab) to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 This Power BI project delivers an end-to-end sales analytics dashboard for a retail Super Store. The solution transforms raw transaction data into actionable insights using modern data analysis techniques. Executives and business users can instantly spot trends, segment performance, product opportunities, and regional strength—all in one visually intuitive platform.
 
-## Objectives
+## 🎯 Objectives
 
 -	Reveal sales, quantity, and profit trends across regions, segments, and categories
 -	Understand preferred payment modes and shipping choices
@@ -22,7 +22,7 @@ This Power BI project delivers an end-to-end sales analytics dashboard for a ret
 -	Pinpoint top sub-categories driving revenue
 -	Enable interactive exploration for data-driven strategy
 
-## Key Dashboard Features
+## 🔍 Key Dashboard Features
 
 **Key KPIs:**
 - Sales: 1.6M
@@ -54,7 +54,7 @@ This Power BI project delivers an end-to-end sales analytics dashboard for a ret
 **Interactive Filters & Slicers:**
 -	Region buttons for instant deep-dives
 
-## Notable Insights
+## 💡 Notable Insights
 
 -	The Consumer segment and West region lead sales and profitability
 -	COD is the top payment method, but encouraging Cards/Online can further boost digital adoption
@@ -62,7 +62,7 @@ This Power BI project delivers an end-to-end sales analytics dashboard for a ret
 -	Products like Phones and Office Supplies consistently drive revenue
 -	Profit and sales show clear seasonal patterns, guiding effective inventory and marketing
 
-## Tools & Skills Demonstrated
+## 🛠️ Tools & Skills Demonstrated
 
 -	**Power BI Desktop**: Data Import, Cleaning, Visualization
 -	**Power Query**: Transformations, Data Modeling
@@ -71,9 +71,9 @@ This Power BI project delivers an end-to-end sales analytics dashboard for a ret
 -	**Dashboard Design**: Interactive dashboard design for business users
 -	**Power BI Service**: Dashboard publishing for stakeholder access
 
-## Usage
+## 🚀 Usage
 
-1. **[Launch(Ctrl+Click opens new tab) the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)**.
+1. **[Launch (ctrl+Click opens new tab) the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)**.
 2. Filter by region, segment, or category using the slicers.
 3. Select data points on any chart to cross-filter the entire dashboard.
 4. Explore the different pages to analyze trends and discover insights.
