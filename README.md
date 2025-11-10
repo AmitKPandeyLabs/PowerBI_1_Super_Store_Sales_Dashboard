@@ -6,7 +6,7 @@
   <img src="https://github.com/AmitKPandeyLabs/PowerBI_1_Super_Store_Sales_Dashboard/raw/main/Project_1_card_fitted_highres_image.png" alt="Super Store Sales Dashboard" width="800">
 </a>
 
-### [Click Here (ctrl+Click opens new tab) to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
+### [Click Here (Ctrl+Click opens new tab) to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
 
 <br>
 
@@ -73,7 +73,7 @@ This Power BI project delivers an end-to-end sales analytics dashboard for a ret
 
 ## 🚀 Usage
 
-1. **[Launch (ctrl+Click opens new tab) the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)**.
+1. **[Launch (Ctrl+Click opens new tab) the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2ODcxNTctMmRlZC00NDRmLWE1ODYtYjczY2MzOWFiYThkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)**.
 2. Filter by region, segment, or category using the slicers.
 3. Select data points on any chart to cross-filter the entire dashboard.
 4. Explore the different pages to analyze trends and discover insights.
